@@ -1,0 +1,9 @@
+name = "Joulia"
+uuid = "32a354f0-5171-11e9-29ce-9d30ac62d6b5"
+authors = ["Jens Weibezahn <jew@wip.tu-berlin.de>", "Mario Kendziorski <mak@wip.tu-berlin.de>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
